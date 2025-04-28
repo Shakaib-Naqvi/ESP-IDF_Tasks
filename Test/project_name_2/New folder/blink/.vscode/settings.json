@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\cc\\esp\\v5.4.1\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\cc\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\cc\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "C_Cpp.errorSquiggles": "enabled",
+    "idf.portWin": "COM3"
+}
